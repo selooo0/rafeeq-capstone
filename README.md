@@ -8,7 +8,7 @@
 **Model:** `google/gemma-4-31b-it:free` via OpenRouter, falling back to `poolside/laguna-s-2.1:free` and
 `google/gemma-4-26b-a4b-it:free` when the free provider is busy (we hit a 429 on the first run). Gemma 4 31B is the
 course default, supports tool calls on the free tier, and handles Arabic well; the eval below is the final check.
-
+**Course:** [SDAIA Academy · Agentic AI Systems Engineering](https://sdaiaacademy.github.io/agentic-ai/), capstone built on the course's [starter kit](https://github.com/SDAIAAcademy/agentic-ai/tree/main/labs/capstone).
 ## Problem
 
 Citizens contact Madar with the same questions every day: how much a permit costs, how long it takes, why it was
