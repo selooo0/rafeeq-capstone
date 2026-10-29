@@ -1,0 +1,2 @@
+agent,id,category,lang,trial,passed,failed_graders,tools,steps,seconds,final
+B,email-own-summary,email,en,0,True,,get_permit send_email,3,29.3,"Done. I verified your application (SGN-40175, ID ending 0550, mobile ******4751) and confirmed it's in **""needs information""** status because of a **missing or expired document**. I've emailed the details to layla.shammari5@mail.example, including the October 31 deadline to submit the required document."
